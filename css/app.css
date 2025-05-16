@@ -14,12 +14,12 @@ body::-webkit-scrollbar {
 }
 
 .font-esthetic {
-    font-family: 'Sacramento', cursive !important;
+    font-family:'Fantasy', cursive !important;
     color: #ffffff !important;
 }
 
 .font-arabic {
-    font-family: 'Noto Naskh Arabic', serif !important;
+    font-family: 'Fantasy', cursive !important;
     color: #ffffff !important;
 }
 
@@ -117,4 +117,10 @@ body::-webkit-scrollbar {
 footer {
     margin-top: -0.5rem;
     padding-bottom: 5rem;
+}
+.blink{
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
 }
